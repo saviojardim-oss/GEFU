@@ -596,3 +596,9 @@ function copyReportText() {
         alert("Texto do Auto de Infração copiado com sucesso!");
     });
 }
+       
+     
+
+
+  
+  
